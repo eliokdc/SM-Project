@@ -5,9 +5,9 @@ Dataset gathered by Columbia Business School from 2002-2004 speed dating events.
 
 Main questions we're searching an answer for:
 
-1- Does race have any effect on the choice of the partner ?
-2- How does occupation affect the decision of the partner?
-3- What are the activities that make a person more or less desirable?
-4- Are there certain character traits that make a person more or less desirable?
+    1- Does race have any effect on the choice of the partner ?
+    2- How does occupation affect the decision of the partner?
+    3- What are the activities that make a person more or less desirable?
+    4- Are there certain character traits that make a person more or less desirable?
     
 Note: The dataset and a PDF File that includes dataset source, our code and our analysis, are available in this repository.
