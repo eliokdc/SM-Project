@@ -1,5 +1,5 @@
 # SMPE-Project 2016-2017
-Students: Katherine Chao, Elio Keddisseh, Anderas 
+Students: Katherine Chao, Elio Keddisseh, Andres Pulido
 
 Dataset gathered by Columbia Business School from 2002-2004 speed dating events. The research was carried out by Ray Fisman and Sheena Iyengar as basis for their paper “Gender Differences in Mate Selection: Evidence From a Speed Dating Experiment".
 
